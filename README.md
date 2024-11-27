@@ -3,8 +3,6 @@
 
 ---
 
-# 👋 Hi, I'm **Dvory Klain**
-
 ## 🛠️ Technologies I Work With  
 
 <p align="center">
