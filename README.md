@@ -38,12 +38,11 @@
 ## 👩‍💻 About Me  
 - ✨ Currently learning **AI and Machine Learning**.  
 - 🌱 Previously trained as a **Software Developer**.  
-- 🤝 Looking to collaborate on **exciting AI and backend development projects**.  
+- 🤝 Looking to collaborate on **exciting AI and innovative projects **.  
 - 🌐 Passionate about exploring new technologies and creating innovative solutions.  
--👯 Looking to collaborate on innovative projects  
--🤔 Seeking help with open-source contributions  
-=💬 Ask me about web development, programming languages 
-=⚡ Fun fact: I love solving complex problems and exploring new technologies  
+- 🤔 Seeking help with open-source contributions  
+- 💬 Ask me about web development, programming languages 
+- ⚡ Fun fact: I love solving complex problems and exploring new technologies  
 
 
 ---
