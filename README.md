@@ -40,13 +40,10 @@
 - 🌱 Previously trained as a **Software Developer**.  
 - 🤝 Looking to collaborate on **exciting AI and backend development projects**.  
 - 🌐 Passionate about exploring new technologies and creating innovative solutions.  
-- ⚡ Fun fact: I love breaking down complex systems and designing creative solutions!
-- 🔭 Currently working on full-stack web applications  
-🌱 Currently learning advanced backend development  
-👯 Looking to collaborate on innovative projects  
-🤔 Seeking help with open-source contributions  
-💬 Ask me about web development, programming languages, and cloud technologies  
-⚡ Fun fact: I love solving complex problems and exploring new technologies  
+-👯 Looking to collaborate on innovative projects  
+-🤔 Seeking help with open-source contributions  
+=💬 Ask me about web development, programming languages 
+=⚡ Fun fact: I love solving complex problems and exploring new technologies  
 
 
 ---
