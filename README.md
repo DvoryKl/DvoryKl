@@ -22,10 +22,10 @@
   <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="MongoDB" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Google Cloud" width="50" height="50" />
   <img src="https://camo.githubusercontent.com/3ebcfced2ff64f782087eb5b242c44db6acbd5989c635d12664a7300c5676dfd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Ansible" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Jupyter" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Anaconda" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
