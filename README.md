@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Material UI" width="50" height="50" />
   <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="Vue.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Angular" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Redis" width="50" height="50" />
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Figma" width="50" height="50" />
   <img src="https://camo.githubusercontent.com/1c703d9b2924c9b1f8d0d36c06957f1b83bea63ca20d20dd3e7be8cb0c939915/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e706e67" alt="GraphQL" width="50" height="50" />
   <img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="Jest" width="50" height="50" />
