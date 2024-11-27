@@ -4,16 +4,19 @@
 ---
 
 ## 🛠️ Technologies I Work With  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" />
+</p>
 
 ---
 
@@ -27,10 +30,11 @@
 ---
 
 ## 📫 How to Reach Me  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/your-profile)  
+<p align="center">
+  <a href="mailto:H0583284614@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" /></a>
+  <a href="https://[github.com](https://github.com/DvoryKl)"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" /></a>
+</p>
 
 ---
 
-![Coding](https://user-images.githubusercontent.com/your-coding-image.png)
+
